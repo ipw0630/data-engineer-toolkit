@@ -1,0 +1,5 @@
+airflow/dags/
+airflow/data/
+spark/scripts/
+kafka/scripts/
+db/sql/
