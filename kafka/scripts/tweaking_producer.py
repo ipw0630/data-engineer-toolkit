@@ -1,3 +1,6 @@
+# filename: kafka/scripts/tweaking_consumer.py
+# run: python kafka/scripts/tweaking_consumer.py
+
 import json
 import time
 from confluent_kafka import avro
