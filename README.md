@@ -20,3 +20,11 @@
 
 ## spark
 `docker compose --profile spark up -d`
+
+
+
+## RESULT MODIFIED SCRIPTS ##
+# Tweaking cunsomer
+![alt text](image.png)
+# Tweaking Producer
+![alt text](image-1.png)
